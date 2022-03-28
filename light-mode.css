@@ -1,0 +1,44 @@
+body
+{
+  background-image: white;
+  width:80%;
+	margin:auto;
+	font-size:30px;
+	line-height:1.5em;
+  word-spacing:12px;
+}
+
+button
+{
+    border: none;
+    color: lightskyblue;
+    border-radius: 10px;
+}
+
+h2
+{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(103, 138, 235);
+    line-height: 1em;
+}
+#speakBtn
+{
+    background: blue;
+    font-size: 100px;
+}
+
+.vertical
+{
+    text-align: center;
+}
+
+p
+{
+    color: rgb(201, 237, 247);
+}
+
+li
+{
+    color:rgb(173, 235, 252);
+}
